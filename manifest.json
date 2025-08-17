@@ -1,7 +1,7 @@
 {
     "name": "tuongtacthuoc",
-    "short_name": "tuongtacthuoc",
-    "start_url": ".",
+    "short_name": "Tương tác thuốc",
+    "start_url": "./tuongtacthuoc",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
